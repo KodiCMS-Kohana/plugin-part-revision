@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/part_revision",
+	"name":        "kodicms_kohana/part_revision",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS messages plugin",
 	"homepage":    "http://www.kodicms.ru/",
